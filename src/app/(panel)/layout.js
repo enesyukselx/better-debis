@@ -30,7 +30,7 @@ export default async function RootLayout({ children }) {
 
     return (
         <html lang="en">
-            <body className="w-full px-4 md:w-4/5 lg:w-2/3 md:p-0 m-auto mt-2 md:mt-10 text-slate-900 bg-blue-900">
+            <body className="w-full px-4 md:w-4/5 lg:w-2/3 md:p-0 m-auto mt-2 md:mt-10 text-slate-900 bg-blue-950">
                 <h1 className="text-3xl font-bold text-slate-100">
                     Better Debis
                 </h1>
